@@ -1,0 +1,9 @@
+deps/
+*.exe
+*.dll
+*.obj
+*.res
+app.rc
+app_icon.ico
+key.txt
+.env
